@@ -1,4 +1,4 @@
-# **Job Portal **
+# Job Portal 
 
 A full-featured job portal where **recruiters** and **candidates** can connect. Recruiters can post jobs and manage candidates, while job seekers can apply for positions and track their application status.
 
