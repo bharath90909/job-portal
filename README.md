@@ -22,7 +22,7 @@ A full-featured job portal where **recruiters** and **candidates** can connect. 
 ### **Frontend**:
 - **React.js**: For building interactive, component-based user interfaces.
 - **Tailwind CSS**: For responsive design and utility-first CSS styling.
-- **Material UI (MUI)**: Additional UI components and themes for improved user experience.
+- **Shadcn UI**: Additional UI components and themes for improved user experience.
 
 ### **Backend**:
 - **Supabase**: Backend as a Service (BaaS) providing database, authentication, and API services.
